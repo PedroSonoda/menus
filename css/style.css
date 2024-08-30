@@ -1,0 +1,60 @@
+.Menus{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    list-style: none;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    font-size: 2em;
+    padding: 30px 10px;
+}
+.Menus1{
+    display: flex;
+    gap: 30px;
+    justify-content: space-around;
+    list-style: none;
+    background-color: rgb(52, 47, 47);
+    color: rgb(83, 76, 76);
+    font-size: 2em;
+    padding: 30px 10px;
+}
+.Menus2{
+    display: flex;
+    gap: 30px;
+    justify-content: space-between;
+    list-style: none;
+    background-color: rgb(10, 22, 137);
+    color: rgb(142, 152, 193);
+    font-size: 2em;
+    padding: 30px 10px;
+}
+.Menus3{
+    display: flex;
+    gap: 30px;
+    justify-content: space-evenly;
+    list-style: none;
+    background-color: rgb(106, 12, 46);
+    color: rgb(108, 23, 108);
+    font-size: 2em;
+    padding: 30px 10px;
+}
+.Menus4{
+    display: flex;
+    gap: 30px;
+    justify-content: start;
+    list-style: none;
+    background-color: rgb(118, 184, 118);
+    color: rgb(208, 200, 103);
+    font-size: 2em;
+    padding: 30px 10px;
+}
+.Menus5{
+    display: flex;
+    gap: 30px;
+    justify-content: end;
+    list-style: none;
+    background-color: rgb(37, 84, 45);
+    color: rgb(3, 17, 74);
+    font-size: 2em;
+    padding: 30px 10px;
+}
